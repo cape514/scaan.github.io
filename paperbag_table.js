@@ -9,8 +9,7 @@ function init() {
 }
 
 function showInfo(data, tabletop) {
-
-    alert('Successfully processed!')
+	
 	console.log(data);
 
 	var table = new Tabulator("#paperbag_table", {
