@@ -42,7 +42,7 @@ function showInfo(data, tabletop) {
 			{column:"name", dir:"asc"},
 		],
 		columns:[
-			{formatter:"responsiveCollapse", width:30, minWidth:30, align:"center", headerSort:false},
+			{formatter:"responsiveCollapse", width:60, minWidth:60, align:"center", headerSort:false},
 			{title:"Location", field:"Locale of Study", formatter:"textarea", width:200},
 			{title:"Date", field:"Date that ordinance came into effect", formatter:"textarea", width:240},
 			{title:"Type", field:"Type of Fee", formatter:"textarea", width:100},
