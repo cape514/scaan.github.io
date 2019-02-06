@@ -1,4 +1,4 @@
-var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1BFSzZD2bQmfV3TprO7neGChxdPsYKwPCTUv_O69OTFE/edit#gid=0'
+var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1BFSzZD2bQmfV3TprO7neGChxdPsYKwPCTUv_O69OTFE/edit?usp=sharing'
 
 function init() {
     Tabletop.init({ 
